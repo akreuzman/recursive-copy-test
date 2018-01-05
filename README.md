@@ -10,4 +10,5 @@ Trying:
 3. `multiprocessing.Pool`
 4. `concurrent.futures`
 
+Result: parallel processing in methods 3 and 4 result in ~43% reduction in time to copy files locally, but no appreciable difference when uploading files to the server.
 
