@@ -18,7 +18,6 @@ disappointing.
 import os, subprocess, time, shutil, distutils.dir_util
 import multiprocessing
 import concurrent.futures
-from pprint import pprint
 import timeit
 
 DIRECTORY = '/Users/snlab/Documents/Projects/huge_files/'
