@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding=UTF-8 -*-
+# -*- coding: UTF-8 -*-
 
 '''
 Exploring various methods of copying files recursively from one directory
